@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/david/Code/Senior Project/Activity Recognition/LSTM-Human-Activity-Recognition/53/model.ckpt"
+all_model_checkpoint_paths: "/home/david/Code/Senior Project/Activity Recognition/LSTM-Human-Activity-Recognition/53/model.ckpt"
