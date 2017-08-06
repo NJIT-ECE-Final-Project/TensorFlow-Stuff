@@ -2,72 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eeeb0380-1ea7-441c-b4e5-05459b33f4e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/data/SampleLoader/SampleDataLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/data/SignalType.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/data/util/ArrayHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/tensorflow/ActivityClassifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/njit/ece/senior_project/tensorflow/ActivityClassifierTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/activity_labels.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/features.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/features_info.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_acc_x_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_acc_y_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_acc_z_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_gyro_x_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_gyro_y_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_gyro_z_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/total_acc_x_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/total_acc_y_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/total_acc_z_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/X_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/subject_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/test/y_test.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_acc_x_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_acc_y_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_acc_z_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_gyro_x_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_gyro_y_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_gyro_z_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/total_acc_x_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/total_acc_y_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/total_acc_z_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/X_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/subject_train.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/tensorflow/data/UCI HAR Dataset/train/y_train.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/README.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/README.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/activity_labels.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/activity_labels.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/features.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/features.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/features_info.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/features_info.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_acc_x_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_acc_x_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_acc_y_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_acc_y_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_acc_z_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_acc_z_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_gyro_x_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_gyro_x_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_gyro_y_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_gyro_y_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_gyro_z_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/body_gyro_z_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/total_acc_x_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/total_acc_x_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/total_acc_y_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/total_acc_y_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/total_acc_z_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/Inertial Signals/total_acc_z_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/X_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/X_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/subject_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/subject_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/test/y_test.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/test/y_test.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_acc_x_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_acc_x_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_acc_y_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_acc_y_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_acc_z_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_acc_z_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_gyro_x_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_gyro_x_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_gyro_y_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_gyro_y_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_gyro_z_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/body_gyro_z_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/total_acc_x_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/total_acc_x_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/total_acc_y_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/total_acc_y_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/total_acc_z_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/Inertial Signals/total_acc_z_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/X_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/X_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/subject_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/subject_train.txt" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/resources/tensorflow/data/UCI HAR Dataset/train/y_train.txt" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/y_train.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/njit/ece/senior_project/tensorflow/LoadModelTest.class" afterPath="$PROJECT_DIR$/target/classes/com/njit/ece/senior_project/tensorflow/LoadModelTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/60/saved_model.pb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/60/variables/variables.data-00000-of-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/60/variables/variables.index" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/tensorflow/LoadModelTest.java" afterPath="$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/tensorflow/LoadModelTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -91,11 +29,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SampleDataLoader.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SampleDataLoader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/data/SampleLoader/SampleDataLoader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="182">
+              <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#4636#4637#0" expanded="true" />
@@ -159,7 +97,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="y_train.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="y_train.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/com/njit/ece/senior_project/tensorflow/data/UCI HAR Dataset/train/y_train.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-10017">
@@ -832,11 +770,18 @@
       <option name="presentableId" value="Default" />
       <updated>1501956890795</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created some classes to read the sample data and run it through the model.">
+      <created>1502047807384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502047807384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-9" width="1864" height="1098" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -853,7 +798,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23993288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23993288" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -875,6 +820,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/src" />
     </ignored-roots>
+    <MESSAGE value="Created some classes to read the sample data and run it through the model." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created some classes to read the sample data and run it through the model." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1123,20 +1070,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/data/SampleLoader/SampleDataLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4636#4637#0" expanded="true" />
-            <element signature="e#4668#4669#0" expanded="true" />
-            <element signature="e#4715#4716#0" expanded="true" />
-            <element signature="e#4757#4758#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/tensorflow/ActivityClassifier.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
@@ -1174,6 +1107,20 @@
         <state relative-caret-position="-10017">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/njit/ece/senior_project/data/SampleLoader/SampleDataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4636#4637#0" expanded="true" />
+            <element signature="e#4668#4669#0" expanded="true" />
+            <element signature="e#4715#4716#0" expanded="true" />
+            <element signature="e#4757#4758#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
